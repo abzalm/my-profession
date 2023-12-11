@@ -174,6 +174,7 @@ letter-spacing: 0.2rem;
     animation-delay: 0.5s;
 }
 
+
 .skills{
     display: flex;
     margin: 0% 5% 5% 5%;
@@ -188,6 +189,12 @@ letter-spacing: 0.2rem;
     animation-delay: 0.5s;
 }
 
+.prosncons img{
+    border-radius: 1rem;
+}
+.prosncons ol li{
+    font-size: 2rem;
+}
 .skills ul li{
     font-size: 2em;
 }
@@ -383,6 +390,14 @@ footer {
     position: relative;
     top: 3px;
     filter: invert();
+}
+
+.fields img{
+        width: 30%;
+        border-radius: 10px;
+        align-content: center;
+        position: relative;
+        text-align: center;
 }
 header.navbar{
     top: 0px;
